@@ -1,2 +1,3 @@
 # Tunnel-waterproofing-dataset
-Data of double-layer gaskets, single-layer gaskets, and aging EPDM gaskets/specimens.
+Experimental datasets of single- and double-gasket waterproofing performance and thermo-oxidative aging of EPDM specimens.
+The datasets will be publicly available upon acceptance of the associated manuscript. 
